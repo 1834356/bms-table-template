@@ -1,5 +1,5 @@
 {
-"name" : "ここに難易度表の名前",
-"symbol" : "ここにシンボル",
-"data_url" : "ここにJSONのURL"
+"name" : "yosagoro-chart",
+"symbol" : "よさ",
+"data_url" : "https://script.google.com/macros/s/AKfycbyYrfO8LdjCxzwXH8CHvdie5qLV7BGPvDXhrfXw1YlUKLPWILubY0iPPY_XC18r_Qs/exec"
 }
